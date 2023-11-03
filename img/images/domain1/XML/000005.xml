@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <filename>antianxia/000005.jpg</filename>
+  <segmented>0</segmented>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>330391518</flickrid>
+  </source>
+  <owner>
+    <flickrid>supershoppertoo</flickrid>
+    <name>cnivs</name>
+  </owner>
+  <size>
+    <width>232</width>
+    <height>147</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>smallelectronicequipment</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>99</xmin>
+      <ymin>31</ymin>
+      <xmax>227</xmax>
+      <ymax>73</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>metalcup</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>76</xmin>
+      <ymin>87</ymin>
+      <xmax>217</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+</annotation>

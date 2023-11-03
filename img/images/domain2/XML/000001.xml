@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <filename>dongying/000001.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>808</width>
+    <height>549</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>banshou</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>33</ymin>
+      <xmax>531</xmax>
+      <ymax>182</ymax>
+    </bndbox>
+  </object>
+  </annotation>

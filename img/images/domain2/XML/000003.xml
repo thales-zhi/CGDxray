@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <filename>dongying/000003.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>612</width>
+    <height>345</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>qianzi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>128</ymin>
+      <xmax>126</xmax>
+      <ymax>174</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <check>0</check>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>144</ymin>
+      <xmax>171</xmax>
+      <ymax>194</ymax>
+    </bndbox>
+  </object>
+</annotation>
